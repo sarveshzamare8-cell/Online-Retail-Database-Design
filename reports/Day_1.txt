@@ -1,0 +1,8 @@
+Day 1 – Requirement Analysis & Entity Identification
+
+- Studied the online retail business workflow
+- Identified core entities: Customers, Products, Orders, Order_Items, Payments
+- Defined attributes for each entity
+- Assigned primary keys and foreign keys
+- Identified relationships between entities
+- Prepared base schema for ER diagram creation
