@@ -1,4 +1,4 @@
---Day_2
+--Day_3
 
 CREATE TABLE customers (
     customer_id SERIAL PRIMARY KEY,
@@ -35,4 +35,5 @@ CREATE TABLE payments (
     amount DECIMAL(10,2) CHECK (amount > 0),
     payment_method VARCHAR(30)
 );
+
 
