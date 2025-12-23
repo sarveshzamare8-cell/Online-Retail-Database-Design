@@ -1,0 +1,13 @@
+Day 6 – SQL Views and Summary Reports
+
+Objective:
+To create reusable SQL views for simplified reporting and analytics.
+
+Tasks Completed:
+- Created customer-level order summary view.
+- Created product-level sales performance view.
+- Created order and payment status view.
+- Validated views using SELECT queries.
+
+Outcome:
+Improved query reusability and simplified analytical reporting using SQL views.
