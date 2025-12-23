@@ -1,0 +1,12 @@
+Day 7 – Final Review & Optimization
+
+Objective:
+To finalize the database design project with performance optimizations and documentation.
+
+Tasks Completed:
+- Added indexes on foreign key and frequently queried columns.
+- Reviewed schema, data, queries, and views.
+- Ensured project follows best practices in SQL database design.
+
+Outcome:
+A complete, optimized, and interview-ready online retail database design project.
