@@ -1,4 +1,4 @@
---Day_3
+--Day_4
 
 
 INSERT INTO customers (first_name, last_name, email, phone) VALUES
@@ -33,4 +33,5 @@ SELECT * FROM products;
 SELECT * FROM orders;
 SELECT * FROM order_items;
 SELECT * FROM payments;
+
 
