@@ -1,3 +1,4 @@
+--Day_6
 
 CREATE VIEW customer_order_summary AS
 SELECT
@@ -36,4 +37,5 @@ LEFT JOIN payments p ON o.order_id = p.order_id;
 SELECT * FROM customer_order_summary;
 SELECT * FROM product_sales_summary;
 SELECT * FROM order_payment_status;
+
 
