@@ -1,0 +1,20 @@
+Day 3 – SQL Schema Design (DDL)
+
+Objective:
+Convert the normalized ER design into executable SQL tables.
+
+Tasks Performed:
+- Created SQL schema using CREATE TABLE statements
+- Defined primary keys for each table
+- Implemented foreign key relationships
+- Applied constraints such as NOT NULL, UNIQUE, and CHECK
+
+Tables Created:
+- customers
+- products
+- orders
+- order_items
+- payments
+
+Outcome:
+A fully structured relational database schema ready for data insertion.
