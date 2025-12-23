@@ -1,0 +1,37 @@
+Tasks Performed:
+
+Identified core entities:
+
+Customers
+
+Products
+
+Orders
+
+Order_Items
+
+Payments
+
+Defined attributes for each entity:
+
+Customers: customer_id, name, email, phone, address
+
+Products: product_id, product_name, category, price, stock_quantity
+
+Orders: order_id, customer_id, order_date, order_status, total_amount
+
+Order_Items: order_item_id, order_id, product_id, quantity, unit_price
+
+Payments: payment_id, order_id, payment_date, payment_method, payment_status
+
+Established relationships:
+
+One customer can place multiple orders
+
+One order can contain multiple products (via Order_Items)
+
+Each order has one payment record
+
+Defined primary keys and foreign keys for all entities.
+
+Created ER diagram using dbdiagram.io to visually represent entities, relationships, and constraints.
