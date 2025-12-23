@@ -1,0 +1,14 @@
+Day 5 – Analytical JOIN Queries & Sales Reports
+
+Objective:
+To generate business insights using SQL JOIN queries on the retail database.
+
+Tasks Completed:
+- Wrote multiple JOIN queries to combine data from customers, orders, products, and payments.
+- Calculated revenue per order and total revenue.
+- Identified top-spending customers.
+- Generated product sales performance reports.
+- Validated relationships through JOIN operations.
+
+Outcome:
+Prepared analytical SQL scripts that can be used for reporting, dashboard creation, and business decision support.
