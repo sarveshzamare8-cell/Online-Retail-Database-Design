@@ -1,0 +1,7 @@
+Day 4 – Sample Data Insertion
+
+Inserted realistic sample data into all tables including customers, products,
+orders, order items, and payments.
+
+Validated foreign key relationships and ensured referential integrity.
+Prepared dataset for analytics and reporting queries.
