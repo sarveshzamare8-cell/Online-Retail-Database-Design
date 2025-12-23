@@ -1,3 +1,5 @@
+--Day_5
+
 
 SELECT 
     o.order_id,
@@ -63,3 +65,4 @@ SELECT
     p.payment_date
 FROM payments p
 JOIN orders o ON p.order_id = o.order_id;
+
